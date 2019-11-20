@@ -1,0 +1,11 @@
+D:\learning\C#\bin\Debug\netcoreapp3.0\C#.exe
+D:\learning\C#\bin\Debug\netcoreapp3.0\C#.deps.json
+D:\learning\C#\bin\Debug\netcoreapp3.0\C#.runtimeconfig.json
+D:\learning\C#\bin\Debug\netcoreapp3.0\C#.runtimeconfig.dev.json
+D:\learning\C#\bin\Debug\netcoreapp3.0\C#.dll
+D:\learning\C#\bin\Debug\netcoreapp3.0\C#.pdb
+D:\learning\C#\obj\Debug\netcoreapp3.0\C#.csprojAssemblyReference.cache
+D:\learning\C#\obj\Debug\netcoreapp3.0\C#.AssemblyInfoInputs.cache
+D:\learning\C#\obj\Debug\netcoreapp3.0\C#.AssemblyInfo.cs
+D:\learning\C#\obj\Debug\netcoreapp3.0\C#.dll
+D:\learning\C#\obj\Debug\netcoreapp3.0\C#.pdb
