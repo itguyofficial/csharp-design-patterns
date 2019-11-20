@@ -6,16 +6,14 @@ namespace DesignPatterns
     {
         static string classObj = null;
 
-        // Here for the examle purpose im using string.
-        // The parameter baseType would be a  emum which has all class types
-        public static string GetObjects(string baseType)
+        public static string GetObjects(FactoryTypes baseType)
         {
-            switch (baseType.ToLower())
+            switch (baseType)
             {
-                case "employee":
+                case FactoryTypes.Employee:
                     classObj = "New Employee object created";
                     break;
-                case "student":
+                case FactoryTypes.Student:
                     classObj = "New Student object creted";
                     break;
                 default:

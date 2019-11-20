@@ -11,7 +11,11 @@ namespace DesignPatterns
             #endregion
 
             #region "Factory"
-            System.Console.WriteLine(Factory.GetObjects("employee"));
+            System.Console.WriteLine(Factory.GetObjects(FactoryTypes.Student));
+            #endregion
+
+            #region "Abstract Factory"
+            System.Console.WriteLine();
             #endregion
             Console.ReadLine();
         }
